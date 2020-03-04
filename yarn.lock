@@ -9547,6 +9547,11 @@ react-error-overlay@^6.0.6:
   resolved "https://registry.yarnpkg.com/react-error-overlay/-/react-error-overlay-6.0.6.tgz#ac4d9dc4c1b5c536c2c312bf66aa2b09bfa384e2"
   integrity sha512-Yzpno3enVzSrSCnnljmr4b/2KUQSMZaPuqmS26t9k4nW7uwJk6STWmH9heNjPuvqUTO3jOSPkHoKgO4+Dw7uIw==
 
+react-hookstore@^1.4.3:
+  version "1.4.3"
+  resolved "https://registry.yarnpkg.com/react-hookstore/-/react-hookstore-1.4.3.tgz#5cd76b2802be9f2d893619557702379d2d1c8ff4"
+  integrity sha512-Yf+8FRqmsUB3le6YVxzxg2c33ydtppO7rxEWodfMWA5ypSF0K7NRnQSr49DK+s87p2FDUF0dtFX3b2Tc8H7mkQ==
+
 react-is@^16.6.0, react-is@^16.7.0, react-is@^16.8.0:
   version "16.13.0"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.0.tgz#0f37c3613c34fe6b37cd7f763a0d6293ab15c527"
